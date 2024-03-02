@@ -7,7 +7,7 @@ body {
 .sidebar {
     position: fixed; 
     left: 0;
-    bottom: 0;
+    top: 0;
     padding: 0.75rem;
     width: 30%;
 }
